@@ -142,8 +142,7 @@ img {
     clear: both;
 }
 
-/*********************/
-/* LAYOUT / SECTIONS */
+/********************/* LAYOUT / SECTIONS */
 /*********************/
 
 //
@@ -164,9 +163,9 @@ img {
 }
 
 .site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
+  float: middle;
+  width: 35px;
+  height: 35px;
   margin-right: 15px;
 
   @include mobile {
